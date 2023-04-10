@@ -20,14 +20,14 @@
 }
 
 #landing h1 {
-  font-size: 60px;
+  font-size: 80px;
   z-index: 2;
 }
 
 #landing p {
   margin-top: -40px;
-  font-size: 22px;
-  z-index: 2;
+  font-size: 30px;
+  z-index: 5;
 }
 
 #landing::before {
@@ -71,7 +71,7 @@
   width: 100%;
   height: auto;
   clip-path: inset(10% 0% 10% 0%);
-  margin-top: -31px;
+  margin-top: -30px;
 }
 
 #blog div h3 {
@@ -125,7 +125,7 @@
 }
 
 #blog div a:hover {
-  color:rgb(242, 185, 80); 
+  color:rgb(242, 80, 183); 
 }
 
 
