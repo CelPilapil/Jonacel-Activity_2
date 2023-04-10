@@ -128,3 +128,39 @@
   color:rgb(242, 185, 80); 
 }
 
+
+
+#services {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px;
+  top: 30px;
+  background-color: whitesmoke;
+}
+
+#services h2 {  
+  margin-top: 5%;
+  font-size: 44px;
+}
+
+#services li {  
+  font-size: 22px;
+  background-color:white;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  margin: 1%;
+  justify-content: center;
+}
+
+#services li:first-child {
+  background-color: rgb(255, 83, 21);
+}
+
+#services li:hover {  
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);  
+}
